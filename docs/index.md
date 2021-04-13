@@ -57,6 +57,8 @@ Income inequality by geographical region
 
 African subregions are showing the largest range of income inequality when compared to each other while subregions Europe and Oceania are showing the smallest ranges of income inequality.
 
+***For full report please refer "Report on World Income Inequlity" in the Github Repository***
+
 ### DATA FILES 
 
 1. WIID_19Dec2018.xlsx: Orginal WIID data file

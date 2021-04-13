@@ -8,6 +8,8 @@ In addition to the Gini coefficients, the group analyzed the share of per capita
 
 ### SHENAL IS TESTING THIS
 
+![image](https://user-images.githubusercontent.com/73985225/114604580-ad46a080-9cb6-11eb-899e-4c340daf7c4d.png)
+
 ALGARY222
 ## Header 2
 ### Header 3

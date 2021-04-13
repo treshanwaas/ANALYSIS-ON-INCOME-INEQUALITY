@@ -1,0 +1,34 @@
+Data Science 1: Group 19: Project
+
+The follwing datafiles and notebooks have been used in this analysis
+
+====== README ========
+0.DS1_G19_project.readme.txt : provides descriptions of files in this folder
+
+======== PROJECT REPORT ============
+
+00.Group 19 - Report on World Income Inequality.pdf : analysis report
+
+===== DATA FILES =====
+
+1. WIID_19Dec2018.xlsx: Orginal WIID data file
+
+2. revised_new_wiid.csv: filtered WIID data file shared among the team for ease of use
+
+3. "GDP Data.xlsx" : GDP data gathered from the world bank resource
+
+4. "Melted GDP Data.csv": external gdp data merged with the countries from #2 above; used only in use case#2.
+
+5. wiid2.csv: the datafile used by one of the teams to perform geographic disparity analysis
+
+==== Python Notebooks ======
+
+6. DS1_G19_data_filters.ipynb : the python notebook used to filter WIID data and creating the filtered dataset.
+
+7. G19_Project_q1_revised.ipynb: contains use case#1 analysis; studying the top 10% and bottom 40% of population.
+
+8. Coding on wealth distribution and income inequality.ipynb : contains the analysis conducted for use case #2
+
+9. GeographicAnalysis.ipynb : contains comparison of various geographic regions; use case #3
+
+10. gdp melted code.ipynb : used to clean and merge GDP data downloaded from world bank source

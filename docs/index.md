@@ -1,3 +1,6 @@
+## SUMMARY PAPER 
+*For indept analysis please go to the github repository 
+
 ## INTRODUCTION 
 As the world becomes more global and the distribution of wealth continues to diminish, it is important to understand how the inequality of income has changed over time and space. We chose to use the World Income Inequality Database (WIID) to analyze the trends and patterns to determine whether income inequality exists in developing and developed nations alike despite the global economic growth and that the gap is diverging.
 In order to validate our hypothesis, that income inequality does exist around the world, we decided to take a three pronged approach to investigate global wealth distribution over time, analyze income inequality over geographic regions as well as compare and contrast the top and bottom wealthiest populations within each country over time.
@@ -24,34 +27,52 @@ The temporal distribution of many countries is not uniform, therefore, we had to
 When studying the resource types such as net income, gross income and earnings as well as equivalence scale i.e. per capita vs equivalized distribution, the team discovered that many data points were not reported for all countries each year and there were not enough records to analyze. Therefore, the detailed analysis of income distribution has been limited to per capita net and gross income distributions.
 
 ### TREND ANALYSIS
+The analysis aimed to gleaninsights on 3 aspects ofincome inequality.
 ![image](https://user-images.githubusercontent.com/73985225/114605962-488c4580-9cb8-11eb-85e5-af5904040e60.png)
-The analysis aimed to gleaninsights on 3 aspects ofincome inequality. Income  of  top 10%  with  bottom 40% ofpopulation  in  various  nations  across  the  world–Thisanalysis  compared net  income  of  top  10% income  earners vs  bottom  40%income  earners.All regions hadunbalanced distributions of income with the bottom 40% receiving close to 5% at some points. However,the income trend especially after 2013 is that income distribution for the top 10% is decreasing except for North Americawhere the top 10% population is increasing their income and the bottom 40% is decreasing.
 
-### SHENAL IS TESTING THIS
+**Income  of  top 10%  with  bottom 40% ofpopulation  in  various  nations  across  the  world**
+This analysis compared net income of top 10% income earners vs bottom 40% income earners. All regions had unbalanced distributions of income with the bottom 40% receiving close to 5% at some points. However, the income trend especially after 2013 is that income distribution for the top 10% is decreasing except for North America where the top 10% population is increasing their income and the bottom 40% is decreasing.
 
-![image](https://user-images.githubusercontent.com/73985225/114604580-ad46a080-9cb6-11eb-899e-4c340daf7c4d.png)
+![image](https://user-images.githubusercontent.com/73985225/114606315-c2243380-9cb8-11eb-9a4a-eef8df4b09bf.png) ![image](https://user-images.githubusercontent.com/73985225/114606594-162f1800-9cb9-11eb-8843-2bb2e0f24862.png)
 
-ALGARY222
-## Header 2
-### Header 3
+**Global wealth distribution over time and its correlation with income inequality**
+Global wealth distribution analysis overtime includes grouping data in 5-year bins and taking the median of the Gini coefficient and GDP. Regionally, the Gini is improving as the economy grows. However, North America showed a worsening Gini, indicating increasing income disparity with economic growth. Other regions are exhibit strong and weak correlation of Gini improving (reduced income disparity) with the GDP growth
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/73985225/114606663-2cd56f00-9cb9-11eb-9486-d67d72dcf740.png)
 
-1. Numbered
-2. List
+**Income inequality by geographical region**
+The analysis compared sub regions within each region to get an overview of the variation of income inequality within each region by taking a median of the past decade. The sub regions within African regions showed the largest variation of income inequality in comparison to each other.
 
-**Bold** and _Italic_ and `Code` text
+### CONCLUSION
+Income of top 10% with bottom 40% population in various nations across the world
+• In Asia and Europe, Income distribution gap between the Top 10% vs Bottom 40% is closing. However, America, Africa and Oceania region income inequality has become more obvious and is increasing.
+Global wealth distribution over time and its correlation with income inequality
+• The income distribution is improving in many regions of the world with increasing wealth. However, North America region is further worsening despite a significant economic growth
+Income inequality by geographical region
+• African subregions are showing the largest range of income inequality when compared to each other while subregions Europe and Oceania are showing the smallest ranges of income inequality.
 
-[Link](url) and ![Image](src)
-```
+### DATA FILES 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. WIID_19Dec2018.xlsx: Orginal WIID data file
 
-### Jekyll Themes
+2. revised_new_wiid.csv: filtered WIID data file shared among the team for ease of use
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/treshanwaas/ANALYSIS-ON-INCOME-INEQUALITY-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. "GDP Data.xlsx" : GDP data gathered from the world bank resource
 
-### Support or Contact
+4. "Melted GDP Data.csv": external gdp data merged with the countries from #2 above; used only in use case#2.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+5. wiid2.csv: the datafile used by one of the teams to perform geographic disparity analysis
+
+### Python Notebooks 
+
+6. DS1_G19_data_filters.ipynb : the python notebook used to filter WIID data and creating the filtered dataset.
+
+7. G19_Project_q1_revised.ipynb: contains use case#1 analysis; studying the top 10% and bottom 40% of population.
+
+8. Coding on wealth distribution and income inequality.ipynb : contains the analysis conducted for use case #2
+
+9. GeographicAnalysis.ipynb : contains comparison of various geographic regions; use case #3
+
+10. gdp melted code.ipynb : used to clean and merge GDP data downloaded from world bank source
+
+

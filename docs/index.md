@@ -1,5 +1,4 @@
 ## SUMMARY PAPER 
-*For indept analysis please go to the github repository 
 
 ## INTRODUCTION 
 As the world becomes more global and the distribution of wealth continues to diminish, it is important to understand how the inequality of income has changed over time and space. We chose to use the World Income Inequality Database (WIID) to analyze the trends and patterns to determine whether income inequality exists in developing and developed nations alike despite the global economic growth and that the gap is diverging.
@@ -31,25 +30,33 @@ The analysis aimed to gleaninsights on 3 aspects ofincome inequality.
 ![image](https://user-images.githubusercontent.com/73985225/114605962-488c4580-9cb8-11eb-85e5-af5904040e60.png)
 
 **Income  of  top 10%  with  bottom 40% ofpopulation  in  various  nations  across  the  world**
+
 This analysis compared net income of top 10% income earners vs bottom 40% income earners. All regions had unbalanced distributions of income with the bottom 40% receiving close to 5% at some points. However, the income trend especially after 2013 is that income distribution for the top 10% is decreasing except for North America where the top 10% population is increasing their income and the bottom 40% is decreasing.
 
 ![image](https://user-images.githubusercontent.com/73985225/114606315-c2243380-9cb8-11eb-9a4a-eef8df4b09bf.png) ![image](https://user-images.githubusercontent.com/73985225/114606594-162f1800-9cb9-11eb-8843-2bb2e0f24862.png)
 
 **Global wealth distribution over time and its correlation with income inequality**
+
 Global wealth distribution analysis overtime includes grouping data in 5-year bins and taking the median of the Gini coefficient and GDP. Regionally, the Gini is improving as the economy grows. However, North America showed a worsening Gini, indicating increasing income disparity with economic growth. Other regions are exhibit strong and weak correlation of Gini improving (reduced income disparity) with the GDP growth
 
 ![image](https://user-images.githubusercontent.com/73985225/114606663-2cd56f00-9cb9-11eb-9486-d67d72dcf740.png)
 
 **Income inequality by geographical region**
+
 The analysis compared sub regions within each region to get an overview of the variation of income inequality within each region by taking a median of the past decade. The sub regions within African regions showed the largest variation of income inequality in comparison to each other.
 
 ### CONCLUSION
 Income of top 10% with bottom 40% population in various nations across the world
-• In Asia and Europe, Income distribution gap between the Top 10% vs Bottom 40% is closing. However, America, Africa and Oceania region income inequality has become more obvious and is increasing.
+
+In Asia and Europe, Income distribution gap between the Top 10% vs Bottom 40% is closing. However, America, Africa and Oceania region income inequality has become more obvious and is increasing.
+
 Global wealth distribution over time and its correlation with income inequality
-• The income distribution is improving in many regions of the world with increasing wealth. However, North America region is further worsening despite a significant economic growth
+
+The income distribution is improving in many regions of the world with increasing wealth. However, North America region is further worsening despite a significant economic growth
+
 Income inequality by geographical region
-• African subregions are showing the largest range of income inequality when compared to each other while subregions Europe and Oceania are showing the smallest ranges of income inequality.
+
+African subregions are showing the largest range of income inequality when compared to each other while subregions Europe and Oceania are showing the smallest ranges of income inequality.
 
 ### DATA FILES 
 

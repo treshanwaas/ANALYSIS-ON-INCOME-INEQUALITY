@@ -24,7 +24,8 @@ The temporal distribution of many countries is not uniform, therefore, we had to
 When studying the resource types such as net income, gross income and earnings as well as equivalence scale i.e. per capita vs equivalized distribution, the team discovered that many data points were not reported for all countries each year and there were not enough records to analyze. Therefore, the detailed analysis of income distribution has been limited to per capita net and gross income distributions.
 
 ### TREND ANALYSIS
-![image](https://user-images.githubusercontent.com/73985225/114604580-ad46a080-9cb6-11eb-899e-4c340daf7c4d.png) The analysis aimed to gleaninsights on 3 aspects ofincome inequality. Income  of  top 10%  with  bottom 40% ofpopulation  in  various  nations  across  the  world–Thisanalysis  compared net  income  of  top  10% income  earners vs  bottom  40%income  earners.All regions hadunbalanced distributions of income with the bottom 40% receiving close to 5% at some points. However,the income trend especially after 2013 is that income distribution for the top 10% is decreasing except for North Americawhere the top 10% population is increasing their income and the bottom 40% is decreasing.
+![image](https://user-images.githubusercontent.com/73985225/114605962-488c4580-9cb8-11eb-85e5-af5904040e60.png)
+The analysis aimed to gleaninsights on 3 aspects ofincome inequality. Income  of  top 10%  with  bottom 40% ofpopulation  in  various  nations  across  the  world–Thisanalysis  compared net  income  of  top  10% income  earners vs  bottom  40%income  earners.All regions hadunbalanced distributions of income with the bottom 40% receiving close to 5% at some points. However,the income trend especially after 2013 is that income distribution for the top 10% is decreasing except for North Americawhere the top 10% population is increasing their income and the bottom 40% is decreasing.
 
 ### SHENAL IS TESTING THIS
 
